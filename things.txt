@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat:evrything 
+Your favorite music here>
+My hobbies are to build stuff
+I would like to travel to brazil
 
-I would like to travel to <XXXX>.
+The revolution is not an apple that falls when it is ripe. You have to make it fall.
 
-"<Your favorite quote goes here>".
